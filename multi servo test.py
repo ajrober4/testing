@@ -10,7 +10,7 @@ while True:
     muscle.angle = 0
     print(muscle.angle)
     sleep(1)
-    muscle.angle = 180
+    muscle.angle = 90
     print(muscle.angle)
     
     sleep(3)
